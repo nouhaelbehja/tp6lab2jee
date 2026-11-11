@@ -1,0 +1,16 @@
+[OK] Projet géré par employé
+[OK] Tâches terminées de l'employé
+[OK] Quatre tâches planifiées
+[OK] Dates réelles et exclusion de la tâche inachevée
+[OK] Requête nommée : prix strictement supérieur à 1000
+[OK] Tâches réalisées dans l'intervalle
+Projet : 1  Nom : Gestion de stock  Date début : 2025-01-14
+Liste des tâches :
+Num  Nom  Date Début Réelle  Date Fin Réelle
+1  Analyse  2025-02-01  2025-02-21
+2  Conception  2025-03-01  2025-03-21
+3  Développement  2025-04-01  2025-04-21
+
+[INFO] BUILD SUCCESS
+[INFO] Total time:  6.912 s
+[INFO] Finished at: 2026-11-11T09:55:42+01:00

@@ -1,0 +1,6 @@
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.715 s -- in ma.projet.TpTest
+[INFO] Results:
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] BUILD SUCCESS
+[INFO] Total time:  16.764 s
+[INFO] Finished at: 2026-11-11T09:54:16+01:00

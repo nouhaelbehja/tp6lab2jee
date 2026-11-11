@@ -1,0 +1,33 @@
+1 FAMILLE0 Femme0
+2 FAMILLE1 Femme1
+3 FAMILLE2 Femme2
+4 FAMILLE3 Femme3
+5 FAMILLE4 Femme4
+6 FAMILLE5 Femme5
+7 FAMILLE6 Femme6
+8 FAMILLE7 Femme7
+9 FAMILLE8 Femme8
+10 FAMILLE9 Femme9
+Femme la plus âgée : FAMILLE0 1960-01-01
+[OK] Femme la plus âgée
+[OK] Épouses : historique complet
+[OK] Épouses sur une période
+[OK] Nombre d'enfants, requête native nommée
+[OK] Femme sans mariage : zéro enfant
+[OK] Femmes mariées au moins deux fois
+[OK] Criteria : quatre épouses simultanées
+[OK] Ancienne période sans quatre unions
+[OK] Comptage des hommes
+Quatre épouses : HOMME0
+Nom : HOMME0 Prénom0
+Mariages En Cours :
+1. Femme : FAMILLE0 Femme0  Date Début : 2000-01-01   Nbr Enfants : 1
+2. Femme : FAMILLE1 Femme1  Date Début : 2000-01-01   Nbr Enfants : 2
+3. Femme : FAMILLE2 Femme2  Date Début : 2000-01-01   Nbr Enfants : 3
+4. Femme : FAMILLE3 Femme3  Date Début : 2000-01-01   Nbr Enfants : 4
+Mariages échoués :
+1. Femme : FAMILLE4 Femme4  Date Début : 1990-01-01  Date Fin : 1995-01-01 Nbr Enfants : 0
+
+[INFO] BUILD SUCCESS
+[INFO] Total time:  6.475 s
+[INFO] Finished at: 2026-11-11T09:55:52+01:00

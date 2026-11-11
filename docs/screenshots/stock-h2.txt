@@ -1,0 +1,17 @@
+[OK] Trois produits par catégorie
+[OK] Trois produits dans la commande
+[OK] Dates de commande inclusives
+[OK] Requête nommée : prix strictement supérieur à 100
+[OK] Intervalle sans commande
+Commande : 1     Date : 2025-03-14
+Liste des produits :
+Référence   Prix    Quantité
+EE85-96a78a2d-6e5d-47a5-9f0b-b7237eaeb60c   200.00 DH   5
+ES12-96a78a2d-6e5d-47a5-9f0b-b7237eaeb60c   120.00 DH   7
+ZR85-96a78a2d-6e5d-47a5-9f0b-b7237eaeb60c   100.00 DH   14
+[OK] CRUD : modification et recherche
+[OK] CRUD : suppression
+
+[INFO] BUILD SUCCESS
+[INFO] Total time:  6.481 s
+[INFO] Finished at: 2026-11-11T09:55:32+01:00

@@ -1,0 +1,7 @@
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.901 s -- in ma.projet.TpTest
+[INFO] Results:
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Building jar: C:\Users\asus\Desktop\jee labs\tp6lab2jee\target\tp6lab2jee-1.0-SNAPSHOT.jar
+[INFO] BUILD SUCCESS
+[INFO] Total time:  11.645 s
+[INFO] Finished at: 2026-11-11T09:56:06+01:00
